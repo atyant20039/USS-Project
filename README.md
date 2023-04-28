@@ -53,12 +53,8 @@ To use this website, follow these steps:
 
 1. Visit the website at https://localhost:5173/ and sign up for a free account.
 2. You can then login with your face image or email address and password.
-2. Once you are logged in, you will see your dashboard with an empty todo list.
-3. To add a new task, click on the "+" button at the bottom right corner of the screen and enter the task tile, description and due date (optional).
-4. To mark a task as completed, click on the checkbox next to the task name.
-5. To edit or delete a task, hover over the task name and click on the pencil or trash icons that appear.
-6. To view your completed tasks, click on the "Completed" tab at the top of the screen.
-7. To log out, click on "Logout" at the top right corner of the screen.
+3. Once you are logged in, you will see a dashboard (no functionality).
+4. To log out, click on "Logout" at the top right corner of the screen.
 
 ## Author
 This project was created by **[Atyant Sony](https://github.com/atyant20039)** and **[Singh Ayush Kumar Satish](https://github.com/Ayush0520)** as part of their USS project in 6th Sem at Indraprastha Institute of Information Technology, Delhi.
